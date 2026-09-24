@@ -1,1 +1,8 @@
 Hello, I am a BTech student specializing in Artificial Intelligence and Data Science. This repository is created as part of my GitHub Fundamentals activity to learn and demonstrate repositories, commits, version control, and basic GitHub practices. I am using this repository to improve my understanding of GitHub and maintain my work in an organized way.
+## Projects
+
+### Project 1
+GitHub Fundamentals Project
+
+### Project 2
+AI & Data Science Project
