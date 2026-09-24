@@ -1,0 +1,8 @@
+Activity 3: GitHub Fundamentals I
+
+Topics covered:
+- Repositories
+- README files
+- Commits
+- Commit messages
+- Version control
